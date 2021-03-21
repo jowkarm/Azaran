@@ -1,5 +1,5 @@
 # Azaran Warehouse Expansion Project
-# Britney Cook, Behrooz Kazemi, and Mohammad Jokar-Konavi 
+  Britney Cook, Behrooz Kazemi, and Mohammad Jokar-Konavi 
 
 # Presentation:
 
